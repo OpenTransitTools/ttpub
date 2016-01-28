@@ -1,10 +1,9 @@
-The _TimeTablePublisher _ is a single system that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes.  The application simplifies and accelerates the production of printed on-street schedules and web schedules, which is often a very time-consuming and manual process for most agencies.  This results in more accurate, current, and consistent schedule information for the customer.
+The TimeTablePublisher (TTPUB) is a web publishing system that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes.  The application simplifies and accelerates the production of printed on-street schedules and web schedules, which is often a very time-consuming and manual process for most agencies.  This results in more accurate, current, and consistent schedule information for the customer.
 
 
-The TimeTablePublisher is designed to use data directly in the [http://code.google.com/transit/spec/transit_feed_specification.html Google Transit Feed Spec (GTFS)] format, so it can be very easy for an agency to implement.  In addition, it can connect to, and read from, other sources of data including a database, a comma separated text file, and XML.  An easy-to-use interface, as well as a tool that compares the changes between two service dates, makes it easy to format and edit the data.
+TTPUB is designed to use data directly in the [http://code.google.com/transit/spec/transit_feed_specification.html General Transit Feed Spec (GTFS)] format, so it can be very easy for an agency to implement.  In addition, it can connect to, and read from, other sources of data including a database, a comma separated text file, and XML.  An easy-to-use interface, as well as a tool that compares the changes between two service dates, makes it easy to format and edit the data.
 
-
-As an open sources application, TimeTablePublisher is available for free so that other transit agencies can use it and even contribute enhancements to it.  There's always room for improvement; and with your help, TimeTablePublisher will improve.
+As an open sources application, TimeTablePublisher is available for free so that other transit agencies can use it and even contribute enhancements to it.  The software comes as-is, and any support is a volunteer effort.
 
 
 ------------

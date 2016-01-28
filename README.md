@@ -5,6 +5,7 @@ TTPUB is designed to use data directly in the [http://code.google.com/transit/sp
 
 As an open sources application, TimeTablePublisher is available for free so that other transit agencies can use it and even contribute enhancements to it.  The software comes as-is, and any support is a volunteer effort.
 
+Historical ttpub project files can be found here: https://code.google.com/archive/p/timetablepublisher/downloads
 
 ------------
 SUGGESTIONS:
